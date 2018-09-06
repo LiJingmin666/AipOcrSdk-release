@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AipOcrSdk-release_Example' do
+  pod 'AipOcrSdk-release', :path => '../'
+
+  target 'AipOcrSdk-release_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

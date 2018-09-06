@@ -1,0 +1,22 @@
+PODS:
+  - AipOcrSdk-release (0.1.0):
+    - AipOcrSdk-release/AipBase (= 0.1.0)
+    - AipOcrSdk-release/AipOcrSdk (= 0.1.0)
+    - AipOcrSdk-release/IdcardQuality (= 0.1.0)
+  - AipOcrSdk-release/AipBase (0.1.0)
+  - AipOcrSdk-release/AipOcrSdk (0.1.0)
+  - AipOcrSdk-release/IdcardQuality (0.1.0)
+
+DEPENDENCIES:
+  - AipOcrSdk-release (from `../`)
+
+EXTERNAL SOURCES:
+  AipOcrSdk-release:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AipOcrSdk-release: bb5fc576f23884e889641875359e21e93e69ae95
+
+PODFILE CHECKSUM: 8a506f4427922b4226017cce99789ed6469fea12
+
+COCOAPODS: 1.5.3
